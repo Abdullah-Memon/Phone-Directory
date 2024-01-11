@@ -1,0 +1,49 @@
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\bin\Debug\Phone_Directory.exe.config
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\bin\Debug\Phone_Directory.exe
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\bin\Debug\Phone_Directory.pdb
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\bin\Debug\Guna.UI.dll
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\bin\Debug\Guna.UI2.dll
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.csprojResolveAssemblyReference.cache
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.Form1.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.Properties.Resources.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.csproj.GenerateResource.Cache
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.exe
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.pdb
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SignupForm.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.UserForm.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AddContactForm.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.ContactReport.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.exe.licenses
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SingleContactPage.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AllContactPage.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AllContactReport.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SettingForm.resources
+E:\Fidx Academy\projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.ChangeUsername.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\bin\Debug\Phone_Directory.exe.config
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.exe
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.pdb
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.csprojResolveAssemblyReference.cache
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AddContactForm.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AllContactPage.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.ChangeUsername.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.Form1.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.Properties.Resources.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SettingForm.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SignupForm.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SingleContactPage.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.UserForm.resources
+F:\Fidx Academy\old projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.csproj.GenerateResource.Cache
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\bin\Debug\Phone_Directory.exe.config
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.exe
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.pdb
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.csprojResolveAssemblyReference.cache
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AddContactForm.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.AllContactPage.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.ChangeUsername.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.Form1.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.Properties.Resources.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SettingForm.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SignupForm.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.SingleContactPage.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.UserForm.resources
+E:\Fidx Academy\Desktop Application Course\My Projects\Phone_Directory\Phone_Directory\obj\Debug\Phone_Directory.csproj.GenerateResource.Cache
